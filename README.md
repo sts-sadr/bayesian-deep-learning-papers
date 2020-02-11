@@ -1,4 +1,5 @@
-# bayesian-deep-learning-papers
+# Bayesian Deep Learning Papers
+
 A collection of papers on bayesian deep learning I have been reading
 
 1. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
@@ -18,3 +19,17 @@ A collection of papers on bayesian deep learning I have been reading
 8. [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336)
 
 9. [Variational Dropout and the Local Reparameterization Trick](https://arxiv.org/abs/1506.02557)
+
+## Citing
+
+```
+@misc{Abhinav:2020,
+  Author = {Abhinav Sagar},
+  Title = {Bayesian Deep Learning Papers},
+  Year = {2020},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/abhinavsagar/bayesian-deep-learning-papers}}
+}
+```
+
